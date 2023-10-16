@@ -15,7 +15,7 @@ Este site foi projetado para apresentar minhas informações de perfil, habilida
 
 ## Como Usar
 
-Para visualizar o currículo, basta acessar o seguinte link: [Bruno Santos Resume](https://bruno-santos-6.github.io/html-portfolio/) ou clonar o repositório e abrir o arquivo `index.html` em um navegador da web. O currículo será exibido com formatação e estilo adequados.
+Para visualizar o currículo, basta acessar o seguinte link: [Bruno Santos Resume](https://bruno-santos-6.github.io/html-resume/) ou clonar o repositório e abrir o arquivo `index.html` em um navegador da web. O currículo será exibido com formatação e estilo adequados.
 
 ## Personalização
 
